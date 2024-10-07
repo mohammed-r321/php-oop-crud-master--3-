@@ -51,7 +51,7 @@ if($num>0){
             extract($row);
  
             echo "<tr>";
-            echo "<td>{$brand}</td>";
+         
                 echo "<td>{$name}</td>";
                 echo "<td>{$price}</td>";
                 echo "<td>{$description}</td>";
